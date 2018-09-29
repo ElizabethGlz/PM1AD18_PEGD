@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UsoDeRecursosYCardView</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="descripci_n_de_la_imagen">Descripción de la imagen</string>
+</resources>

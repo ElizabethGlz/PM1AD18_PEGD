@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UseOfResourcesAndCardview</string>
+    <string name="action_settings">Settings</string>
+    <string name="descripci_n_de_la_imagen">ImageDescription</string>
+</resources>

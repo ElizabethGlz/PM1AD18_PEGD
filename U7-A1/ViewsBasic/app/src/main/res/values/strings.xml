@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewsBasic</string>
+    <string-array name="Instituciones_array">
+        <item>ITSUR</item>
+        <item>ITESO</item>
+        <item>ITESM</item>
+    </string-array>
+</resources>
